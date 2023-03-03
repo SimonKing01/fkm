@@ -3,6 +3,9 @@ package com.yunyi.test;
 public class Helloworld {
     public static void main(String[] args) {
         System.out.println("hello git!");
+        System.out.println("hello git!");
+        System.out.println("hello git!");
+        System.out.println("hello git!");
         System.out.println("hello git2!");
         System.out.println("hello gi55555555t332!");
         System.out.println("hello git32!");
@@ -15,5 +18,10 @@ public class Helloworld {
         System.out.println("pushtest");
         System.out.println("44444444444444444444444444444");
         System.out.println("test gitee");
+        System.out.println("test gitee");
+        System.out.println("test gitee");
+        System.out.println("test gitee");
+
+        
     }
 }
